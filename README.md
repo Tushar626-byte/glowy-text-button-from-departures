@@ -1,8 +1,10 @@
+
+
 ---
 
 # Glowy Text Button ✨
 
-Welcome to the **Glowy Text Button** project! This repository showcases a modern, eye-catching button effect inspired by the "Departures" aesthetic. Perfect for anyone looking to add a little flair to their website's UI!
+Welcome to the **Glowy Text Button** project! This repository showcases a modern, eye-catching button effect inspired by the "Departures" aesthetic. Ideal for anyone looking to add an interactive glow to their website’s UI!
 
 ## 🌟 Features
 
@@ -13,7 +15,7 @@ Welcome to the **Glowy Text Button** project! This repository showcases a modern
 
 ## 📌 Live Demo
 
-🔗 **[Check out the Glowy Text Button in action](https://your-live-demo-link.com)**
+🔗 **[View the Glowy Text Button on Vercel](https://glowy-text-button-from-departures.vercel.app/)**
 
 ## 💻 Usage
 
@@ -26,7 +28,7 @@ Welcome to the **Glowy Text Button** project! This repository showcases a modern
    cd glowy-text-button-from-departures
    ```
 3. **Open `index.html` in your Browser**  
-   Simply open the `index.html` file to see the button live.
+   Open the `index.html` file to see the button in action.
 
 ## 🛠️ Customization
 
@@ -34,10 +36,6 @@ You can easily tweak the button’s appearance by editing the CSS file:
 - **Color Scheme**: Modify the `color` and `background-color` properties.
 - **Glow Effect**: Adjust the `text-shadow` property for a softer or bolder glow.
 - **Animation Speed**: Play with the `transition` duration for custom hover effects.
-
-## 📷 Screenshots
-
-Add screenshots or a GIF here to showcase the button effect.
 
 ## 🤝 Contributing
 
@@ -57,4 +55,4 @@ Feel free to reach out if you have any questions or suggestions:
 
 ---
 
-Hope this button adds a glow to your projects! ✨ Feel free to use, customize, and contribute! 😄
+Add a touch of glow to your projects with this button! ✨ Feel free to use, customize, and contribute! 😄
